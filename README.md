@@ -140,10 +140,3 @@ gcc main.c -o calendar
 * GUI-based interface
 * Event editing and deletion
 * Notifications/reminders
-
----
-
----
-
-* format this for **GitHub with badges + visuals**
-* or generate a **short README (1-page version for submission)**
